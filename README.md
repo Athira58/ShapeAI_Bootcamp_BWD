@@ -1,4 +1,4 @@
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+# SHAPEAI Javascript and Reactjs BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 
@@ -10,15 +10,15 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
 
 <br>I got to have hands on experience on:
 
-<li>Python
+<li>JavaScript
 
-<li>Machine Learning
+<li>HTML
 
-<li>Tensorflow
+<li>React.js
 
 <br>during these 7 days, and everything was explained from the very basics so that
 
@@ -49,4 +49,3 @@ be</a>
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
-
